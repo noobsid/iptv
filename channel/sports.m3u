@@ -1,41 +1,4 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.45.14
-#KODIPROP:inputstream.adaptive.license_key=http://joss.biz.id/rcplus/drm.php?id=113
-http://joss.biz.id/rcplus/index.mpd?id=113&v=1764748818
-#EXTINF:-1 tvg-logo="" group-title="SPST",SPORTSTAR 2 COBA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd?v=1764748818
-#EXTINF:-1 group-title="SPST", SPST 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-https://dusk.biz.id/rpl/index.mpd?id=112&v=1764748818
-#EXTINF:-1 group-title="SPST", SPST 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-https://dusk.biz.id/rpl/index.mpd?id=113&v=1764748818
-#EXTINF:-1 group-title="SPST", SPST 3
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=114
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-https://dusk.biz.id/rpl/index.mpd?id=114&v=1764748818
-#EXTINF:-1 group-title="SPST", SPST 4
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=115
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-https://dusk.biz.id/rpl/index.mpd?id=115&v=1764748818
-#EXTINF:-1 group-title="SPST", SPST 5
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=119
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-https://dusk.biz.id/rpl/index.mpd?id=119&v=1764748818
-#EXTINF:-1 group-title="SPST", SPST 6
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=120
-#EXTVLCOPT:http-user-agent=VideoPlayer/4.3.0-WITH_ADS
-https://dusk.biz.id/rpl/index.mpd?id=120&v=1764748818
-======
 #EXTINF:-1 tvg-logo="https://blog.visionplus.id/wp-content/uploads/2024/01/jadwal-program-soccer-channel-1140x641.jpg" group-title="SPST", Soccer Channel ᴴᴰ
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
