@@ -1,11 +1,3 @@
-ffmpeg -re -stream_loop -1 -i live.mp4 \
-  -vcodec libx264 -preset veryfast -maxrate 1500k -bufsize 3000k \
-  -pix_fmt yuv420p -g 50 -acodec aac -b:a 128k -ar 44100 \
-  -f flv "rtmps://live-api-s.facebook.com:443/rtmp/FB-24930930256608241-0-Ab0WaPNuNkfsZPkypV6Lz90x"
-  
-  
-rtmps://live-api-s.facebook.com:443/rtmp/FB-24930930256608241-0-Ab0WaPNuNkfsZPkypV6Lz90x
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PHV9N6KXPk1NUNLlANF996glEzc=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
